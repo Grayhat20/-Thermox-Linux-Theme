@@ -1,0 +1,3 @@
+import rainbowtext, pyfiglet
+
+print(rainbowtext.text(pyfiglet.figlet_format('grayhat')))
